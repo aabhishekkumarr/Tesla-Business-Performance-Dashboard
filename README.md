@@ -54,8 +54,5 @@ The purpose of this project is to transform raw production and delivery data int
 - In several periods, deliveries outpaced production, highlighting demand–supply gaps and capacity pressure.
 - Certain regions consistently contributed a larger share of total deliveries.
 
-  # screenshots \ Demos
-   ![Alt text]https://github.com/aabhishekkumarr/Tesla-Business-Performance-Dashboard/blob/main/teslabusniessperformancereport.jpg
-  Example = ![Dashboard preview]https://github.com/aabhishekkumarr/Tesla-Business-Performance-Dashboard/blob/main/teslabusniessperformancereport.jpg
-  
+
   
