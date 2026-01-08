@@ -47,10 +47,10 @@ The purpose of this project is to transform raw production and delivery data int
 - Region-wise and model-wise performance breakdown  
 - Sustainability and infrastructure analysis  
 - Interactive slicers for year, region, and model  
----
 
-## 🔍 Key Insights
+
+# Key Insights
 - Tesla experienced strong acceleration in vehicle deliveries post-2020, indicating rapidly increasing EV demand.
 - In several periods, deliveries outpaced production, highlighting demand–supply gaps and capacity pressure.
 - Certain regions consistently contributed a larger share of total deliveries.
-- Expansi
+  
