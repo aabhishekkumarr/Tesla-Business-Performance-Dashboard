@@ -54,5 +54,7 @@ The purpose of this project is to transform raw production and delivery data int
 - In several periods, deliveries outpaced production, highlighting demand–supply gaps and capacity pressure.
 - Certain regions consistently contributed a larger share of total deliveries.
 
+# Dataset Source
+Data is sourced from the publicly available at Kaggle 'Tesla EA Deliveries & Production (2015–2025)' dataset.
 
   
