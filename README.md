@@ -53,4 +53,8 @@ The purpose of this project is to transform raw production and delivery data int
 - Tesla experienced strong acceleration in vehicle deliveries post-2020, indicating rapidly increasing EV demand.
 - In several periods, deliveries outpaced production, highlighting demand–supply gaps and capacity pressure.
 - Certain regions consistently contributed a larger share of total deliveries.
+
+  # screenshots \ Demos
+  Example = ![Dashboard preview]https://github.com/aabhishekkumarr/Tesla-Business-Performance-Dashboard/blob/main/teslabusniessperformancereport.jpg
+  
   
